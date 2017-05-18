@@ -1,6 +1,6 @@
 {
   "name": "@drivetribe/react-native-permissions",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "repository": {
     "type": "git",
     "url": "https://github.com/joshblour/react-native-permissions.git"
